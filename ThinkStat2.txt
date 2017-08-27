@@ -13,3 +13,10 @@
 12.时间序列分析
 13.生存分析
 14.分析方法
+
+涉及到的软件包：
+numpy
+matplotlib
+pandas
+scipy
+statsmodels
